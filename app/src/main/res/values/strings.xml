@@ -1,3 +1,12 @@
 <resources>
     <string name="app_name">IMC Caculator</string>
+    <string name="imc_calculator">IMC CALCULATOR</string>
+    <string name="sua_altura_ex_1_80">Sua Altura ex: 1.80</string>
+    <string name="seu_peso_ex_98_5">Seu peso ex: 98.5</string>
+    <string name="digite_para_casas_decimas">ATENÇÃO: Digite \'.\' para casas decimas</string>
+    <string name="calcular">calcular</string>
+    <string name="peso">PESO:</string>
+    <string name="a_cima_do_peso">A CIMA DO PESO</string>
+    <string name="diagnostico_final">DIAGNÓSTICO FINAL</string>
+    <string name="altura">ALTURA:</string>
 </resources>
