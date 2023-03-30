@@ -21,6 +21,6 @@ class IMCResult : AppCompatActivity() {
         val result = bundle?.getString("result")
         binding.textPeso.text = "PESO: ${peso.toString()} KG"
         binding.textAltura.text = "ALTURA: ${altura.toString()}"
-        binding.textDiagnostico.text = "$result"
+        binding.textDiagnostico.text = "$result M"
     }
 }
